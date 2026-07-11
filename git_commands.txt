@@ -1,17 +1,16 @@
- git status                                                                                                      
- git add .                                                                                                       
- git add .                                                                                                       
- git status                                                                                                      
- git commit -m "added testing files"                                                                             
- git status                                                                                                      
- git commit -m "added testing files"                                                                            
- clear                                                                                                           
- git config --global user.name "Nikhil Kumar"...                                                                 
- git status                                                                                                      
- git commit -m "added testing files"                                                                             
- git status                                                                                                      
- clear                                                                                                           
- rm testing.py                                                                                                   
- ls                                                                                                              
- git restore testing.py                                                                                          
- clear   
+git status
+ clear
+git add .
+git status
+clear
+git status
+git commit -m "added testing files"
+clear
+git status
+rm testing.py
+ls
+clear
+git status
+git restore testing.py
+clear
+git status
